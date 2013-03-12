@@ -1,9 +1,9 @@
 {
-    "name": "dialog2",
+    "name": "jquery-dialog2",
     "description": "jQuery Dialog2 packaged for meteor.",
     "homepage": "https://github.com/kidovate/meteor-dialog2",
     "author": "Christian Stewart <kidovate@gmail.com>",
     "version": "0.1.0",
     "git": "https://github.com/kidovate/meteor-dialog2.git",
-    "packages": {"jquery":{}}
+    "packages": {}
 }
